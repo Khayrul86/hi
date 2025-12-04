@@ -1,2 +1,1 @@
-# hi there
 # [l](https://google.com)
